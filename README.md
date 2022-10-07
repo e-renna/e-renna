@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Enrico Renna.
+- 👀 I’m interested in Cybersecurity, and in my free time I love to work on my homelanb!
+- 🌱 I’m currently studying Cybersecurity & Forensics at Edinburgh Napier University.
+- 💞️ I’m always looking to contribute to open-source projects.
+- 📫 Reach me on my [personal blog](https://enricorenna.me) where I share my experiences and projects!
